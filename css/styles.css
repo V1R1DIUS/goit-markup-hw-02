@@ -2,46 +2,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;                  
-  font-size: 16px;                   
-  line-height: 1.5;                  
-  color: #2E2F42;                    
+  font-size: 16px;                                    
+  color: #434455;                    
   background-color: #ffffff;         
-}
-
-.section-title {
-  font-family: 'Raleway', sans-serif; 
-  font-weight: 700;                   
-  font-size: 36px;
-  line-height: 1.11;
-  color: #2E2F42;
-  text-align: center;
-  margin-bottom: 72px;
-}
-
-.button {
-  background-color: #4D5AE5;
-  color: #ffffff;
-  border: none;
-  padding: 12px 24px;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1.5;
-  border-radius: 4px;
-  cursor: pointer; 
-  transition: background-color 0.3s ease;
-}
-
-.button:hover,
-.button:focus {
-  background-color: #404BBF; 
-}
-.header-contact-link {
-  color: #434455;
-  text-decoration: none;
-  transition: color 0.3s ease;
-}
-
-.header-contact-link:hover,
-.header-contact-link:focus {
-  color: #4D5AE5;
 }
