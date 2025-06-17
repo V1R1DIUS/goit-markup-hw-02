@@ -51,7 +51,7 @@ font-size: 16px;
 font-size: 16px;  
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #2e2f42;
+color: #434455;
 }
 
 .contacts li:first-child .contacts-mail:hover,
@@ -64,7 +64,7 @@ color: #404bbf;
   font-size: 16px;  
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: #434455;
 }
 
 .contacts li:nth-child(2) .contacts-tel:hover,
