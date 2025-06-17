@@ -13,8 +13,9 @@ body {
 
 a{
   text-decoration: none;
-
 }
+
+/* Header */
 
 .logo {
  font-family: 'Raleway', sans-serif;
@@ -59,6 +60,8 @@ color: #434455;
 color: #404bbf;
 }
 
+/* Section 1 Hero Banner */
+
 .hero-banner{
 background-color: #2e2f42;
 }
@@ -87,6 +90,81 @@ background-color: #2e2f42;
   background-color: #404BBF;
 }
 
+/* Section 2 Benefits */
+.benefits-title{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.benefits-info{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/* Section 3 Our Team */
+.team{
+  background-color: #f4f4fd;
+}
+
+.team-title {
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2e2f42;
+}
+
+.team-list {
+background-color: #ffffff;
+
+}
+
+.team-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.team-position {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/* Section 4  Our Portfolio */
+.portfolio-title{
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.portfolio-item-title {
+    font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.portfolio-item-type {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/* Footer */
 .footer{
  background-color: #2e2f42;
 }
