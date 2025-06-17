@@ -30,7 +30,7 @@ a{
  color: #2e2f42;
 }
 
-.header-navigation-list {
+.menu-item {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -38,8 +38,40 @@ a{
   color: #2e2f42;
   
 }
-.address {
+ul.menu > li:first-child a:hover,
+ul.menu > li:first-child a:focus {
+  color: #404bbf;
 }
+.contacts {
+  font-style: normal;
+}
+
+.contacts-mail{
+font-size: 16px;
+font-size: 16px;  
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.contacts li:first-child .contacts-mail:hover,
+.contacts li:first-child .contacts-mail:focus {
+color: #404bbf;
+}
+
+.contacts-tel{
+  font-size: 16px;
+  font-size: 16px;  
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.contacts li:nth-child(2) .contacts-tel:hover,
+.contacts li:nth-child(2) .contacts-tel:focus{
+  color: #404bbf;
+}
+
 
 .hero-banner{
 
