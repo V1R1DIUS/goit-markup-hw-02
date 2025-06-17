@@ -46,7 +46,7 @@ ul.menu > li:first-child a:focus {
   font-style: normal;
 }
 
-.contacts-mail{
+.contacts-list{
 font-size: 16px;
 font-size: 16px;  
 line-height: 1.5;
@@ -54,24 +54,10 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.contacts li:first-child .contacts-mail:hover,
-.contacts li:first-child .contacts-mail:focus {
+.contacts li:first-child .contacts-list:hover,
+.contacts li:first-child .contacts-list:focus {
 color: #404bbf;
 }
-
-.contacts-tel{
-  font-size: 16px;
-  font-size: 16px;  
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.contacts li:nth-child(2) .contacts-tel:hover,
-.contacts li:nth-child(2) .contacts-tel:focus{
-  color: #404bbf;
-}
-
 
 .hero-banner{
 
